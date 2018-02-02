@@ -1,0 +1,7 @@
+C:\Work\Training\BloomFilter\BloomFilter\bin\Debug\BloomFilter.exe.config
+C:\Work\Training\BloomFilter\BloomFilter\bin\Debug\BloomFilter.exe
+C:\Work\Training\BloomFilter\BloomFilter\bin\Debug\BloomFilter.pdb
+C:\Work\Training\BloomFilter\BloomFilter\obj\Debug\BloomFilter.csprojResolveAssemblyReference.cache
+C:\Work\Training\BloomFilter\BloomFilter\obj\Debug\BloomFilter.csproj.CoreCompileInputs.cache
+C:\Work\Training\BloomFilter\BloomFilter\obj\Debug\BloomFilter.exe
+C:\Work\Training\BloomFilter\BloomFilter\obj\Debug\BloomFilter.pdb
